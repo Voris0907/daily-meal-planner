@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "name": "Scrabble Egg with Tomato",
+      "ingredients": ["Tomato", "Egg", "Salt"],
+      "time": 15
+    }
+  ]
+}
